@@ -1,9 +1,6 @@
-
 <!--
 **raak-16/raak-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,16 +11,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi there, I'm Waafiq Raakin 👋</h1>
-
 <h3 align="center">Building at the intersection of AI, Robotics </h3>
 
 <p align="center">
 🤖 I'm currently working on <b>Adaptive Chess AI</b>, a full-stack chess platform with a local Transformer move model<br>
 🌱 Currently exploring <b>Robotics (ROS/Nav2/Gazebo)</b> and <b>Agentic AI systems</b><br>
 💬 Ask me about <b>LLM fine-tuning (Unsloth/LoRA), Python, ROS</b><br>
-
 </p>
 
 <p align="center">
@@ -31,8 +25,6 @@ Here are some ideas to get you started:
   <a href="mailto:waafiqraakin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portfolio-new-ivory-sigma.vercel.app/index.html" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
----
 
 ---
 
@@ -58,22 +50,13 @@ Used Unsloth and LoRA adapters to cut VRAM usage by 30% while improving conversa
 A college event recommendation engine using scikit-learn (KNN) and Streamlit, with SMTP-automated registration confirmation emails.
 `Python` `scikit-learn` `KNN` `Streamlit`
 
-
----
-
-### 🏆 Awards & Achievements
-
-- 🥇 Finalist, **International Rover Challenge 2025** (Space Robotics Society, Goa)
-- 🥈 **11th place**, ERC Remote Challenge 2025 (European Space Foundation)
-- 🎓 Mentored a hands-on **Git, GitHub & ROS workshop** for juniors at PSG iTech
-
----
-
 ### 🧰 Tech Stack
 
-**Languages:** Python , Java
-**Frameworks & Libraries:** scikit-learn, ROS, Langflow, TensorFlow, PyTorch, Node.js, Express.js, Husarnet, n8n
-**Databases:** MySQL, MongoDB
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,sklearn,ros,tensorflow,pytorch,nodejs,express,mongodb,mysql" />
+</p>
+
+**Also working with:** Langflow, n8n, Husarnet
 **AI/ML:** LLM Fine-Tuning (Unsloth, LoRA), NLP, RAG, Transformers
 
 ---
