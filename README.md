@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **raak-16/raak-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
