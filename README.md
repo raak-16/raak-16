@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm Waafiq Raakin 👋</h1>
 
-<h3 align="center">Building at the intersection of AI, Robotics & Full-Stack Engineering</h3>
+<h3 align="center">Building at the intersection of AI, Robotics </h3>
 
 <p align="center">
 🤖 I'm currently working on <b>Adaptive Chess AI</b>, a full-stack chess platform with a local Transformer move model<br>
 🌱 Currently exploring <b>Robotics (ROS/Nav2/Gazebo)</b> and <b>Agentic AI systems</b><br>
-💬 Ask me about <b>LLM fine-tuning (Unsloth/LoRA), Python, ROS, or Node.js/Express</b><br>
-📕 I write occasionally as a <b>Columnist for Think and Ink Magazine</b> — check out my piece on DNA data storage<br>
-⚡ Fun fact: I once fine-tuned a 7B model to argue philosophy with me
+💬 Ask me about <b>LLM fine-tuning (Unsloth/LoRA), Python, ROS, </b><br>
+
 </p>
 
 <p align="center">
@@ -36,10 +35,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-### ✨ About Me
-
-I'm a Machine Learning enthusiast and full-stack developer with hands-on experience in **AI model optimization, robotics software, and applied data science**. I'm currently pursuing my B.Tech in Artificial Intelligence and Data Science at **PSG Institute of Technology and Applied Research** (CGPA: 8.84). I like turning research-y ideas — model fine-tuning, RAG pipelines, autonomous navigation — into things that actually run end-to-end.
 
 ---
 
@@ -65,9 +60,6 @@ Used Unsloth and LoRA adapters to cut VRAM usage by 30% while improving conversa
 A college event recommendation engine using scikit-learn (KNN) and Streamlit, with SMTP-automated registration confirmation emails.
 `Python` `scikit-learn` `KNN` `Streamlit`
 
-**🗣️ Parkinson's Disease Detection Using Voice Analysis** — *May 2025*
-An LSTM model that analyzes vocal features (jitter, shimmer, pitch) to detect Parkinson's disease.
-`Python` `LSTM` `Signal Processing`
 
 ---
 
@@ -75,14 +67,13 @@ An LSTM model that analyzes vocal features (jitter, shimmer, pitch) to detect Pa
 
 - 🥇 Finalist, **International Rover Challenge 2025** (Space Robotics Society, Goa)
 - 🥈 **11th place**, ERC Remote Challenge 2025 (European Space Foundation)
-- ✍️ Columnist, **Think and Ink Magazine** — wrote on DNA data storage for archival tech
 - 🎓 Mentored a hands-on **Git, GitHub & ROS workshop** for juniors at PSG iTech
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages:** Python (expert), Java (intermediate)
+**Languages:** Python , Java
 **Frameworks & Libraries:** scikit-learn, ROS, Langflow, TensorFlow, PyTorch, Node.js, Express.js, Husarnet, n8n
 **Databases:** MySQL, MongoDB
 **AI/ML:** LLM Fine-Tuning (Unsloth, LoRA), NLP, RAG, Transformers
