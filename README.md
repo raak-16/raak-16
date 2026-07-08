@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
 🤖 I'm currently working on <b>Adaptive Chess AI</b>, a full-stack chess platform with a local Transformer move model<br>
 🌱 Currently exploring <b>Robotics (ROS/Nav2/Gazebo)</b> and <b>Agentic AI systems</b><br>
-💬 Ask me about <b>LLM fine-tuning (Unsloth/LoRA), Python, ROS, </b><br>
+💬 Ask me about <b>LLM fine-tuning (Unsloth/LoRA), Python, ROS</b><br>
 
 </p>
 
